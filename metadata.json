@@ -1,0 +1,6 @@
+{
+  "name": "Thiết Kế Website Bằng AI Studio - VibeCoding",
+  "description": "Landing page giới thiệu khóa học Thiết kế Website bán Tool & Sản phẩm số bằng AI Studio và VibeCoding dành cho người không biết IT.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
